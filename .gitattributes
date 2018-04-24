@@ -1,3 +1,9 @@
 *.rb linguist-language=PHP
-application/* linguist-documentation
-
+application/cache/* linguist-documentation
+application/core/* linguist-documentation
+application/hooks/* linguist-documentation
+application/language/* linguist-documentation
+application/libraries/* linguist-documentation
+application/logs/* linguist-documentation
+application/models/* linguist-documentation
+application/third_party/* linguist-documentation
